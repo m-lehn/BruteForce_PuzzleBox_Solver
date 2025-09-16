@@ -18,9 +18,9 @@ The puzzle: stack a set of wooden blocks to form a bigger cube that fits the box
 **Block inventory (as axis-aligned rectangular prisms, size in unit cubes):**
 ```python
 cubes = {
-    (3, 2, 2): 6,
-    (4, 2, 1): 6,
-    (1, 1, 1): 5,
+    (1, 1, 1): 5, # id 0
+    (3, 2, 2): 6, # id 1
+    (4, 2, 1): 6, # id 2
 }
 
 solution = [
