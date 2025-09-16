@@ -9,7 +9,8 @@ Three approaches inside the notebook — the first two fail (in funny ways), the
 
 ## 📸 Puzzle & Pieces
 
-![box](https://github.com/user-attachments/assets/952bf6ec-cc84-41e0-801b-ca6dc2c9c3a6)
+
+<img width="965" height="366" alt="box" src="https://github.com/user-attachments/assets/a81d159c-bba6-41d3-8ac9-2c29ba6bc0eb" />
 
 
 The puzzle: stack a set of wooden blocks to form a bigger cube that fits the box.
