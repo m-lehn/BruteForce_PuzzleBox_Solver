@@ -1,7 +1,7 @@
 # 🧩 Roadside Puzzle Box — Notebook Playground
 
 *A one-notebook exploration of packing wooden blocks into a perfect cube.*  
-Three approaches inside the notebook — the first two fail (in funny ways), the third is a more systematic attempt you can extend.
+Three approaches (the first two fail) inside the notebook you can extend.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e3zVR8GNugbc1tMGRADX7HYg3xfbNKfv?usp=sharing)
 
